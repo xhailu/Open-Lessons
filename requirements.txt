@@ -1,2 +1,2 @@
 # requirements.txt
-python>=3.6
+python>=2.7
